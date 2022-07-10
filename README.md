@@ -1,4 +1,4 @@
-<h1 align ="center">Hi there, I'm Sparsh👋</h1>
+<h1 align ="center">Hi👋 there, I'm Sparsh - Web and Flutter Developer</h1>
 
 
 
@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter and Web Dev Projects.  
-- 🌱 I’m currently learning Advance DSA
-- 👯 I’m looking to collaborate on different Projects
+- 🌱 I’m currently learning Advance DSA.
+- 👯 I’m looking to collaborate on different Projects.
 - 📫 How to reach me: https://www.linkedin.com/in/sparrshh/
 
 <!---
