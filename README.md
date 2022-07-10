@@ -5,14 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Flutter Projects, Graphic Designing,  
+- 🔭 I’m currently working on Flutter and Web Dev Projects.  
 - 🌱 I’m currently learning Advance DSA
-- 👯 I’m looking to collaborate on Flutter Projects
-- 📫 How to reach me: https://www.linkedin.com/in/sparsh-gupta-639433191/
+- 👯 I’m looking to collaborate on different Projects
+- 📫 How to reach me: https://www.linkedin.com/in/sparrshh/
 
 <!---
-rajgupta93/rajgupta93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
 <h2 align = "center" > Find Me Here </h2>
 
