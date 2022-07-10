@@ -1,4 +1,4 @@
-<h1 align ="center">Hi👋 there, I'm Sparsh - Web and Flutter Developer</h1>
+<h1 align ="center">Hi there👋, I'm Sparsh - A Web and Flutter Developer</h1>
 
 
 
